@@ -38,9 +38,6 @@ XRPL(XRP Ledger) 데브넷을 기반으로, XRP와 IOU 토큰(USD/KRW/JPY)을 �
   - `dashboard/src/dashboard.tsx`: TrustLine 생성(`TrustSet`), IOU 결제(`Payment`) 실행 핸들러 포함
   - 환경변수 예시: `dashboard/env.example`
 
-XRPL Explorer 링크 템플릿(테스트넷):
-- 거래: `https://testnet.xrpl.org/transactions/{TX_HASH}`
-- 계정: `https://testnet.xrpl.org/accounts/{ADDRESS}`
 
 
 ## 4) 레포지토리 구조
