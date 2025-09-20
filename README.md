@@ -1,6 +1,6 @@
 # XRPL Project — XRPL 기반 멀티 레일 결제 PoC (Toss ↔ PayPay)
 
-XRPL(XRP Ledger) 데브넷을 기반으로, 14억 이용자의 국가 간 경계 없는 인증 + 결제 통합 솔루션
+XRPL(XRP Ledger)를 기반으로, 14억 이용자의 국가 간 경계 없는 인증 + 결제 통합 솔루션
 
 <img src="public/thumbnail.png" width="400" height="300"/> <br>
 
