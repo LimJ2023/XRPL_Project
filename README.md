@@ -5,31 +5,8 @@ XRPL(XRP Ledger) 테스트넷을 기반으로, XRP와 IOU 토큰(USD/KRW/JPY)을
 
 ## 1) 데모 영상 (Audio 포함)
 
-- 영상 링크(YouTube/Loom): `여기에 영상 URL을 넣어주세요`
-- 권장 길이: 3~6분
-- 영상 구성 체크리스트
-  - 프로젝트 개요 및 문제 정의 (30초)
-  - 레포지토리 구조 설명 (30초)
-  - 앱에서 결제(XRP/IOU) 실행 및 성공 결과(트랜잭션 해시) 확인 (1~2분)
-  - 대시보드에서 실시간/최근 거래 조회 및 필터링 확인 (1~2분)
-  - XRPL Testnet Explorer에서 실제 트랜잭션 확인 (해시/링크 제시) (30초)
-  - 보안/운영 고려사항 간단 언급 (30초)
-
 
 ## 2) UI 스크린샷
-
-- 스크린샷 추가 위치: `docs/screenshots/`
-  - 결제 UI 화면: `docs/screenshots/app-payment.png`
-  - 결제 성공(해시 표시) 화면: `docs/screenshots/app-success.png`
-  - 대시보드 메인: `docs/screenshots/dashboard-main.png`
-  - TrustLine/유동성/결제 수행 섹션: `docs/screenshots/dashboard-actions.png`
-
-README 내 표시 예시:
-
-![결제 UI](docs/screenshots/app-payment.png)
-![결제 성공](docs/screenshots/app-success.png)
-![대시보드 메인](docs/screenshots/dashboard-main.png)
-![대시보드 액션](docs/screenshots/dashboard-actions.png)
 
 
 ## 3) 프로젝트가 XRPL을 활용하는 방식
@@ -147,17 +124,6 @@ cd dashboard && npm run dev
 
 ## 7) 영상(오디오 포함) 촬영 체크리스트
 
-- 아래 항목을 모두 영상에서 다뤄주세요.
-  - 프로젝트 동작 방식(UX 흐름) 설명
-  - GitHub 레포 구조 설명(본 README의 "레포지토리 구조" 기준)
-  - 앱에서 XRP/IOU 결제 데모(성공 화면과 트랜잭션 해시 노출)
-  - 대시보드에서 거래 조회/필터링 데모
-  - XRPL Testnet Explorer 트랜잭션 링크 제시 및 상세 확인
-  - XRPL 트랜잭션 구현 충족 기준 설명
-    - `autofill → sign → submitAndWait` 흐름
-    - `TrustSet`/`Payment` 활용 및 IOU 포맷 `{ currency, issuer, value }`
-    - 예치금(Reserve) 고려 로직 설명
-
 
 ## 8) 보안/운영 고려사항
 
@@ -179,4 +145,4 @@ cd dashboard && npm run dev
 
 ---
 
-문의/이슈는 GitHub Issues로 남겨주세요. 심사용 영상과 스크린샷은 업로드 후 위 섹션의 플레이스홀더를 실제 경로/URL로 교체하면 됩니다.
+문의/이슈는 GitHub Issues로 남겨주세요.
