@@ -2,6 +2,7 @@
 
 XRPL(XRP Ledger) 데브넷을 기반으로, XRP와 IOU 토큰(USD/KRW/JPY)을 활용한 결제 처리, 신뢰선(TrustLine) 설정, 토큰 발행, 거래 모니터링 대시보드를 포함한 엔드투엔드 PoC입니다.
 
+<img src="public/thumbnail.png" width="400" height="300"/> <br>
 
 ## 1) 데모 영상 (Audio 포함)
 
