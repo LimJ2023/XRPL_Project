@@ -56,8 +56,8 @@ XRPL_Project/
 │  ├─ src/dashboard.tsx
 │  └─ XRPL_INTEGRATION_README.md
 ├─ initialization/           # 초기화/PoC 스크립트
-│  ├─ createNewWallet.ts     # XRPL 새 지갑 생성
-│  └─ PoC_toss_paypay.ts     # 신뢰선/발행/결제 PoC 루틴
+│  ├─ pg_system/ 1~ 6.ts     # 퍼미션 도메인과 크리덴셜 구현
+│  └─ PoC.ts     # 신뢰선/발행/결제 PoC 루틴
 └─ README.md                 # 현재 문서
 ```
 
