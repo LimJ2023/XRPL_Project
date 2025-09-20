@@ -109,7 +109,7 @@ cd dashboard && npm run dev
 - 기본 포트(변경 가능): 앱 `http://localhost:3000`, 대시보드 `http://localhost:5173`
 
 
-## 6) 데모 시나리오 가이드 (심사용 권장)
+## 6) 데모 시나리오 가이드
 
 - 결제(XRP)
   1. 앱에서 `XRP` 선택, 금액 입력, 사용자 시드 입력
