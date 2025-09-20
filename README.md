@@ -142,6 +142,9 @@ cd dashboard && npm run dev
 - XRPL 공식: `https://xrpl.org/`, JS SDK: `https://js.xrpl.org/`
 - XRPL Testnet Explorer: `https://testnet.xrpl.org/`
 
+## 9) 트랜잭션 링크
+
+지갑 주소: rL6UxaJR8WkyYmDzBtDP14t9vhCpLDyTDe
 
 ---
 
