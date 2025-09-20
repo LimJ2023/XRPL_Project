@@ -1,4 +1,4 @@
-# XRPL Project — XRPL 기반 멀티 레일 결제 PoC (Toss ↔ PayPay)
+# XRPL Project — XRPL 기반 멀티 레일 결제 PoC
 
 XRPL(XRP Ledger)를 기반으로, 14억 이용자의 국가 간 경계 없는 인증 + 결제 통합 솔루션
 
