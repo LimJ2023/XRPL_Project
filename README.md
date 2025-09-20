@@ -127,10 +127,8 @@ cd dashboard && npm run dev
   3. 필요 시 데모 액션(TrustLine 생성, 초기 유동성 전송, IOU 결제) 수행
 
 
-## 7) 영상(오디오 포함) 촬영 체크리스트
 
-
-## 8) 보안/운영 고려사항
+## 7) 보안/운영 고려사항
 
 - 현재 데모는 테스트넷, 교육용 목적 — 운영 사용 금지
 - 시드 직접 입력은 데모용. 운영 시 다음을 권장
@@ -139,7 +137,7 @@ cd dashboard && npm run dev
   - 민감 정보는 절대 클라이언트에 보관 금지
 
 
-## 9) 참고 문서
+## 8) 참고 문서
 
 - 앱 결제 가이드: `app/XRPL_PAYMENT_README.md`
 - 토큰 발행 가이드: `app/TOKEN_ISSUER_README.md`
