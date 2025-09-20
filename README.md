@@ -7,10 +7,11 @@ XRPL(XRP Ledger) 테스트넷을 기반으로, XRP와 IOU 토큰(USD/KRW/JPY)을
 
 
 ## 2) UI 스크린샷
+결제 화면 예시<br>
 <img src="public/app1.png" width="200" height="400"/> <br>
-결제 화면 예시
-<img src="public/board1.png" width="400" height="300"/> <br>
-대시보드 예시
+대시보드 예시 <br>
+<img src="public/board1.png" width="400" height="300"/>
+
 <img src="public/board2.png" width="400" height="300"/> <br>
 
 ## 3) 프로젝트가 XRPL을 활용하는 방식
