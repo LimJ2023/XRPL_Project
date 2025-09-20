@@ -144,7 +144,7 @@ cd dashboard && npm run dev
 
 ## 9) 트랜잭션 링크
 
-지갑 주소: rL6UxaJR8WkyYmDzBtDP14t9vhCpLDyTDe
+[지갑 주소: rL6UxaJR8WkyYmDzBtDP14t9vhCpLDyTDe](https://devnet.xrpl.org/accounts/rL6UxaJR8WkyYmDzBtDP14t9vhCpLDyTDe/transactions)
 
 ---
 
