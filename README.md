@@ -7,7 +7,7 @@ XRPL(XRP Ledger) 테스트넷을 기반으로, XRP와 IOU 토큰(USD/KRW/JPY)을
 
 
 ## 2) UI 스크린샷
-
+[!public/app1.png]
 
 ## 3) 프로젝트가 XRPL을 활용하는 방식
 
