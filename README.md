@@ -1,6 +1,6 @@
 # XRPL Project — XRPL 기반 멀티 레일 결제 PoC (Toss ↔ PayPay)
 
-XRPL(XRP Ledger) 테스트넷을 기반으로, XRP와 IOU 토큰(USD/KRW/JPY)을 활용한 결제 처리, 신뢰선(TrustLine) 설정, 토큰 발행, 거래 모니터링 대시보드를 포함한 엔드투엔드 PoC입니다.
+XRPL(XRP Ledger) 데브넷을 기반으로, XRP와 IOU 토큰(USD/KRW/JPY)을 활용한 결제 처리, 신뢰선(TrustLine) 설정, 토큰 발행, 거래 모니터링 대시보드를 포함한 엔드투엔드 PoC입니다.
 
 
 ## 1) 데모 영상 (Audio 포함)
