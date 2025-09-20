@@ -5,7 +5,7 @@ XRPL(XRP Ledger)를 기반으로, 14억 이용자의 국가 간 경계 없는 �
 <img src="public/thumbnail.png" width="400" height="300"/> <br>
 
 ## 1) 데모 영상
-[![Video Label](public/thumbnail.png)](https://www.youtube.com/watch?v=G1-0A_LuoHc)
+[![Video Label](public/thumbnail2.png)](https://www.youtube.com/watch?v=G1-0A_LuoHc)
 
 ## 2) UI 스크린샷
 결제 화면 예시<br>
